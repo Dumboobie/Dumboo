@@ -1,0 +1,6 @@
+{
+  "name": "Dumboo - บันทึกและวิเคราะห์รายรับรายจ่าย",
+  "description": "เว็บจัดการรายรับรายจ่าย สรุปผลรายเดือน พร้อมกราฟวิเคราะห์ข้อมูล และจัดเก็บข้อมูลอย่างปลอดภัยบน Firebase [Dumboo]",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
